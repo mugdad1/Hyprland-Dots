@@ -1,0 +1,1 @@
+modify rofi and wallpaper add z to zshrc
